@@ -3,16 +3,16 @@
 Practical machine learning examples for structured data.
 
 
-# Dataset
+### Dataset
 
 Titanic dataset was downloaded from Biostatistics for Biomedical Research (https://hbiostat.org)
 
 https://hbiostat.org/data/repo/titanic3.xls
 
 
-# Main libs used:
+### Main libs used
 
-matplotlib
-pandas
-scikit-learn
-ydata-profiling
+* matplotlib
+* pandas
+* scikit-learn
+* ydata-profiling

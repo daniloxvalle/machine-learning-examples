@@ -1,0 +1,13 @@
+matplotlib
+pandas
+# for pandas
+pyarrow
+scikit-learn
+yellowbrick
+# for distutils lib
+setuptools
+# for excel file reading
+xlrd
+ydata-profiling
+# for ydata-profiling
+ipywidgets
